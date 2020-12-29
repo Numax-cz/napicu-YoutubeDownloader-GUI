@@ -10,6 +10,7 @@
 * Klikněte na tlačítko načíst a vyčkejte než se video inicializuje
 ![Program2](https://user-images.githubusercontent.com/68774291/103277221-d02f9c00-49c8-11eb-9de9-e7cd56d2c2e4.png)
 
+* Klikněte na tlačítko "Stáhnout?"
 ![Program3](https://user-images.githubusercontent.com/68774291/103277227-d58ce680-49c8-11eb-8dc4-3c8646db98d9.png)
 
 * Vyberte kam chcete video stáhnout

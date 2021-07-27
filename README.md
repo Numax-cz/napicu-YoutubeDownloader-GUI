@@ -1,7 +1,7 @@
 # NaPicu-YouTubeDownloader
 * Je potřeba nainstalovat python (Program vytvořen ve verzi Python 3.9.0)
 * Obsahuje předinstalovaný pytube 10.0.0
-
+* `JIŽ NEFUNKČNÍ`
 # Návod
 
 * Zadejte URL adresu z YouTube
